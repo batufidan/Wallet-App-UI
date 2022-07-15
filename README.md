@@ -1,4 +1,5 @@
 # wallet_app_ui
+![Adsız](https://user-images.githubusercontent.com/98849270/179120897-003075f1-94e7-4f7b-a364-5254d7f465ef.png)
 
 A new Flutter project.
 
